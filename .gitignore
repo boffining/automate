@@ -174,4 +174,3 @@ cython_debug/
 .pypirc
 
 .DS_Store
-job_search_correspondance/data/*
